@@ -43,7 +43,7 @@ Delete : 코드 삭제
 
 ### [폴더구조]
 
-> 입9팔9
+ 입9팔9
 ├── public
 └── src
     ├── assets/images
