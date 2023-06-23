@@ -31,10 +31,29 @@
 
 ## 3. 개발 환경<br>
 ### [코드컨벤션]
+
 ### [커밋컨벤션]
+Git 커밋 컨벤션
+Feat : 기능 추가 (브랜치 맨처음 커밋, 기능 추가)
+Add : 코드 추가 (어떠한 기능 내에 기능을 더 추가)
+Modify : 코드 수정, 파일 삭제(버그 수정, 코드 지우고, 추가하고, 수정하는 모든 과정들)
+Style : 컴포넌트 및 UI 구현 (스타일드 컴포넌트)
+Delete : 코드 삭제
 
 
 ### [폴더구조]
+
+> 입9팔9
+├── public
+└── src
+    ├── assets/images
+    ├── components
+    ├── contexts/ModalContext
+    ├── hooks
+    ├── pages
+    ├── routes
+    ├── style
+    └── utils
 
 ## 4. 팀 협업 방식
 
