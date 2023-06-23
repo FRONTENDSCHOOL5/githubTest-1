@@ -43,6 +43,7 @@ Delete : 코드 삭제
 
 ### [폴더구조]
 
+```
  입9팔9
 ├── public
 └── src
@@ -54,6 +55,7 @@ Delete : 코드 삭제
     ├── routes
     ├── style
     └── utils
+```
 
 ## 4. 팀 협업 방식
 
