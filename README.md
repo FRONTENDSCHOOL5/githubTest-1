@@ -14,8 +14,13 @@
 
 ## 1. 프로젝트 소개
 
-> 데일리룩과 취향을 공유하며 지속가능한 패션을 함께 만들어가는 서비스
-
+> 데일리룩과 취향을 공유하며 지속가능한 패션을 함께 만들어가는 서비스 <br>
+ -  데일리 트렌드
+   요즘 유행 찾아 다니느라 지쳤지? 참고 하고 싶은 스타일이 매일매일 업로드 되는 입9팔9 하나면 끝! 
+ - 사진 속 착용 상품
+   SNS에 업로드한 패션 아이템을 팔고, 입고 싶은 패션 아이템을 합리적인 가격에 구매 가능한 입9팔9 !
+ - 패션 검색   
+   나와 비슷한 스타일의 유저를 만나보고 세상에 하나 밖에 없는 빈티지 제품을 구매할 기회도 잡아보세요 ! 
  <br>
 
 ## 2. 팀원소개<br>
@@ -27,7 +32,7 @@
 |                                                 <a href="https://github.com/KwanBeom">🔗 KwanBeom </a>                                                  |                                              <a href="https://github.com/kyeongboo-coder">🔗 kyeongboo-coder </a>                                              |                                               <a href="https://github.com/yonsinthefish">🔗 yonainthefish </a>                                               |                                                 <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a>                                                  |
 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                 <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |
 
-
++ ## 역할 분담 <br>
 
 ## 3. 개발 환경<br>
 
