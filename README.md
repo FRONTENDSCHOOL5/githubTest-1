@@ -32,7 +32,7 @@
 |                                                 <a href="https://github.com/KwanBeom">🔗 KwanBeom </a>                                                  |                                              <a href="https://github.com/kyeongboo-coder">🔗 kyeongboo-coder </a>                                              |                                               <a href="https://github.com/yonsinthefish">🔗 yonainthefish </a>                                               |                                                 <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a>                                                  |
 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                 <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |
 
-+ ## 역할 분담 <br>
+### 역할 분담 <br>
 
 ## 3. 개발 환경<br>
 
@@ -90,7 +90,7 @@ Delete : 코드 삭제
 
 
 
-## 6.  개선 노력
+## 6. 개선 노력
 ✅ 추후 확장 및 유지 보수를 고려해 재사용되는 컴포넌트는 별도로 common 폴더에서 관리하고 있습니다. 
 ✅ 효율적인 작업상황을 고려하여 반복되는 함수는 utils 폴더로 따로 분리하여 사용했습니다.  
 ✅ 이후 리팩토링시 진행 예정인 다크모드, 반응형 작업을 위해 변수컬러와, rem 단위를 사용하여 작업에 진행했습니다. 
@@ -103,7 +103,7 @@ Delete : 코드 삭제
 useParams를 이용해 사용자의 아이디를 받아와 정보를 띄워줍니다. 내 프로필에서는 상품 등록 및 프로필 수정 페이지로 이동할 수 있는 버튼이 나타나고, 다른 유저의 프로필에서는 팔로우 버튼이 나타납니다.
 댓글 모달 클릭시 내 댓글이면 삭제, 다른 유저의 댓글이면 신고 기능을 사용할 수 있습니다.
 
-## 7. 
+## 7. 느낀점 
 ✅ 스타일 재작업 필요
 문제 기능 구현 후 각자 담당 페이지를 스타일링 하였는데 코드를 합쳐서 보니 스타일링 통일이 되지 않았습니다.
 원인 피그마 디자인을 직접 만든 뒤 그를 토대로 스타일링 작업을 하여 정확한 pixel 값이 맞춰지지 않은 상태였고, 코드 재활용이 가능한 요소에도 4명 각자의 스타일로 마크업과 스타일링이 이루어졌습니다.
