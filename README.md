@@ -6,7 +6,7 @@
 
 <br>
 
-## 🗼 배포
+## 소개 및 개요
 <a href=""> 서비스링크 </a>
 서비스 이용을 위한 테스트 계정
 
@@ -15,8 +15,10 @@
   <br>
 
 ## 1. 프로젝트 소개
-
 > 데일리룩과 취향을 공유하며 지속가능한 패션을 함께 만들어가는 서비스 <br>
+![입구팔구 소개](https://github.com/yonainthefish/githubTest/assets/124084624/ae9f2a0f-296a-4216-b625-7446aa8f2c1c)
+
+
  -  데일리 트렌드
    요즘 유행 찾아 다니느라 지쳤지? 참고 하고 싶은 스타일이 매일매일 업로드 되는 입9팔9 하나면 끝! 
  - 사진 속 착용 상품
@@ -31,8 +33,8 @@
 | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/4ac018c7-f9f3-49c1-89e8-9e0523c69919.jpg" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/f8f06190-ece0-4a5d-ada4-d7df6cca0455.png" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/dac4ccc0-c4c2-4240-8e4b-067a4b2eeb7d.jpg" width="170" height="170"/> | <img src="https://github.com/yonainthefish/FE05-Project-Sooryen/assets/124084624/9d2c1f67-82c0-4d91-8bf9-09be962044f4.jpg" width="170" height="170" /> |
                                                                   
-|                                                 <a href="https://github.com/KwanBeom">🔗 KwanBeom </a>                                                  |                                              <a href="https://github.com/kyeongboo-coder">🔗 kyeongboo-coder </a>                                              |                                               <a href="https://github.com/yonsinthefish">🔗 yonainthefish </a>                                               |                                                 <a href="https://github.com/Skyllerrr">🔗 skyllerrr </a>                                                  |
-|                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |                                 <img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>                                 |
+|<a href="https://github.com/KwanBeom">🔗 KwanBeom </a>|<a href="https://github.com/kyeongboo-coder">🔗 kyeongboo-coder </a> | <a href="https://github.com/yonsinthefish">🔗 yonainthefish </a>                            |<a href="https://github.com/Skyllerrr">🔗 skyllerrr </a> 
+|<img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/> |<img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>|<img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>  |<img src="https://img.shields.io/badge/FrontEnd-3178C6?style=plastic&logoColor=blue"/>|
 
 ### 역할 분담 <br>
 
